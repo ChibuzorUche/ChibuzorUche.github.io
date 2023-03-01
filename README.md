@@ -1,8 +1,20 @@
 # About Me 
-<div class="holder">
-  <div class="color"></div>
-  <div class="picture"></div>
-</div>
+from PIL import Image
+
+# Open the image file
+image = Image.open("![Image](https://user-images.githubusercontent.com/126709313/222251655-bbaf311f-1c90-4990-8f3f-993595b9832b.jpeg)")
+
+# Display the original image
+image.show()
+
+# Change the color of the image
+red_image = image.copy()
+red_image.putdata([(255, 0, 0, pixel[3]) for pixel in red_image.getdata()])
+
+# Display the red image
+red_image.show()
+
+
 
 With a Master's degree in Management Information Systems from Coventry University in the United Kingdom and a wealth of experience in IT support, system administration, and cyber forensic analysis, I am a skilled and accomplished professional with a proven track record of delivering exceptional results.
 Throughout my career, I have consistently demonstrated my ability to exceed expectations and deliver high-quality solutions to complex IT problems. I have a keen eye for detail, and I am adept at using my technical expertise to identify and resolve issues quickly and efficiently.
