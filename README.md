@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm [Your Name]! I'm a [Your Profession] who enjoys coding and learning new technologies.
+Hi, I'm Chibuzor Uche! I'm an IT Professional who enjoys coding and learning new technologies.
 
 ## Interests
 
