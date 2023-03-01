@@ -1,4 +1,8 @@
-# About Me
+# About Me 
+<div class="holder">
+  <div class="color"></div>
+  <div class="picture"></div>
+</div>
 
 With a Master's degree in Management Information Systems from Coventry University in the United Kingdom and a wealth of experience in IT support, system administration, and cyber forensic analysis, I am a skilled and accomplished professional with a proven track record of delivering exceptional results.
 Throughout my career, I have consistently demonstrated my ability to exceed expectations and deliver high-quality solutions to complex IT problems. I have a keen eye for detail, and I am adept at using my technical expertise to identify and resolve issues quickly and efficiently.
