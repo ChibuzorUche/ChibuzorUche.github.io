@@ -13,6 +13,7 @@ Successfully migrated a large company's email system to the cloud, resulting in 
 My passion for IT and my dedication to excellence make me a compelling candidate for any role in IT support. I have the technical skills, industry knowledge, and problem-solving abilities needed to succeed in a fast-paced and challenging environment. In my free time, I enjoy reading about new technologies and exploring new programming languages. I also enjoy traveling and experiencing different cultures, which has helped me to develop a broader perspective and a deeper understanding of the world.
 
 If you are looking for a skilled and dedicated IT professional who can deliver results that exceed expectations, I would be an excellent addition to your team. Thank you for considering my application, and I look forward to the opportunity to discuss my qualifications further.
+    
 </p>
 
 ## Interests
