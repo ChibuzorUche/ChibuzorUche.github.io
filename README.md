@@ -3,7 +3,7 @@
 <Img align="center" src="https://user-images.githubusercontent.com/126709313/222251655-bbaf311f-1c90-4990-8f3f-993595b9832b.jpeg" width="500"/>
 </p>
 
-<p align="justify">
+<p align="justify-content">
     With a Master's degree in Management Information Systems from Coventry University in the United Kingdom and a wealth of experience in IT support, system administration, and cyber forensic analysis, I am a skilled and accomplished professional with a proven track record of delivering exceptional results.
 Throughout my career, I have consistently demonstrated my ability to exceed expectations and deliver high-quality solutions to complex IT problems. I have a keen eye for detail, and I am adept at using my technical expertise to identify and resolve issues quickly and efficiently. As an IT professional, I have a deep understanding of the industry and its challenges. I am constantly learning and staying up-to-date with the latest developments and trends, and I have a strong interest in emerging technologies. 
 
