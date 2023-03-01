@@ -1,8 +1,5 @@
 # About Me 
-from PIL import Image
-
-# Open the image file
-image = Image.open("![Image](https://user-images.githubusercontent.com/126709313/222251655-bbaf311f-1c90-4990-8f3f-993595b9832b.jpeg)")
+![Image](https://user-images.githubusercontent.com/126709313/222251655-bbaf311f-1c90-4990-8f3f-993595b9832b.jpeg)
 
 
 With a Master's degree in Management Information Systems from Coventry University in the United Kingdom and a wealth of experience in IT support, system administration, and cyber forensic analysis, I am a skilled and accomplished professional with a proven track record of delivering exceptional results.
