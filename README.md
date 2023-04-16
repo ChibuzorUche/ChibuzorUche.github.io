@@ -1,6 +1,5 @@
-theme: Modernist
 
-# About Me 
+ # Chibuzor Uche
 <p align="center">
 <Img align="center" src="https://user-images.githubusercontent.com/126709313/222251655-bbaf311f-1c90-4990-8f3f-993595b9832b.jpeg" width="500"/>
 </p>
